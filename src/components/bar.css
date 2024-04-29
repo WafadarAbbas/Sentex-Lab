@@ -1,0 +1,41 @@
+.menu {
+    /* background-color: #eb3737;  */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Add padding */
+  }
+  
+  /* Styling for Menu Items */
+  .menu-item {
+    padding: 8px 16px; /* Add padding to menu items */
+    font-size: 16px; /* Set font size */
+  }
+  
+  /* Styling for Menu Dividers */
+  .menu-divider {
+    margin: 4px 0; /* Add margin to dividers */
+  }
+  
+  /* Styling for Link inside Menu */
+  .menu-link {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Set text color */
+  }
+  
+  /* Styling for Expand Icon */
+  .expand-icon {
+    margin-left: auto; /* Align icon to the right */
+  }
+  
+  /* Styling for Submenu */
+  .submenu {
+    background-color:  #eb3737; /* Set background color */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Add padding */
+    margin-top: 8px; /* Add margin to separate from parent menu */
+  }
+  
+  /* Styling for Submenu Items */
+  .submenu-item {
+    padding: 8px 16px; /* Add padding to submenu items */
+    font-size: 16px; /* Set font size */
+  }
